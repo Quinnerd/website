@@ -9,7 +9,8 @@
         <p>
            
            
-           All future projects will be through Github.
+          
+          All future projects will be through Github.
       </p>
     </body>
    </html>
