@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Kellogg's Cereal/title>
+    <title>Kellogg's Cereal</title>
       </head>
     <body>
       <p>
